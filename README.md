@@ -50,7 +50,7 @@ The project also focuses on:
 ## 📱 **Installation Guide (Android 13 and Above)**
 
 ### Step 1 – Download the APK
-➡️ [**Click here to download the latest APK (v1.4)**](https://github.com/Krishnaprasad-30429846/Deploying-The-RTVV/releases/latest/download/app-release.apk)
+➡️ [**Click here to download the latest APK (v1.4)**](https://github.com/Krishnaprasad2004/Deploying-The-RTVV/releases/download/v1.4_apk/RTVV.1.4.apk)
 
 ---
 
